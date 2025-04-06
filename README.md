@@ -2,7 +2,7 @@
 
 Welcome to my personal website — [jareo.xyz](https://jareo.xyz/)
 
-This portfolio highlights my work, thoughts, and passions as a **Geodetic Engineer** specializing in **geoinformatics**, **remote sensing**, and **GIS development**. It's a digital space where I share projects, write articles, and map my journey in the world of spatial science.
+This portfolio highlights my work, thoughts, and passion as a **Geomatics Engineer** specializing in **geoinformatics**, **remote sensing**, and **programming**. It's a space where I share projects, write my thoughts, and map my journey in the world of spatial science.
 
 ---
 
